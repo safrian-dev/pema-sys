@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/497.5e1b9811.chunk.js","mappings":"0KAEA,MAIA,EAJmBA,KACVC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,S","sources":["pages/vendor/tender/EditTender.js"],"sourcesContent":["import React from 'react';\r\n\r\nconst EditTender = () => {\r\n  return <h1>hello</h1>;\r\n};\r\n\r\nexport default EditTender;\r\n"],"names":["EditTender","_jsx","children"],"sourceRoot":""}
